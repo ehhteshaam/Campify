@@ -31,13 +31,6 @@ Campify is a full-stack web application where users can explore, create, and rev
 
 ---
 
-## 📸 Screenshots
-
-
-![Home Page](https://campify-jf6u.onrender.com/)
-![Campground Page](https://campify-jf6u.onrender.com/campgrounds)
-
----
 
 ## ⚙️ Setup Instructions
 
